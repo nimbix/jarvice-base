@@ -1,0 +1,9 @@
+[submodule "base-centos-torque"]
+	path = base-centos-torque
+	url = git@github.com:nimbix/base-centos-torque.git
+[submodule "base-centos-mvapich2"]
+	path = base-centos-mvapich2
+	url = git@github.com:nimbix/base-centos-mvapich2.git
+[submodule "base-centos-slurm"]
+	path = base-centos-slurm
+	url = git@github.com:nimbix/base-centos-slurm.git
