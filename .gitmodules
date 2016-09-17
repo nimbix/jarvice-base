@@ -7,3 +7,6 @@
 [submodule "base-centos-slurm"]
 	path = base-centos-slurm
 	url = git@github.com:nimbix/base-centos-slurm.git
+[submodule "base-ubuntu-mvapich2"]
+	path = base-ubuntu-mvapich2
+	url = git@github.com:nimbix/base-ubuntu-mvapich2.git
